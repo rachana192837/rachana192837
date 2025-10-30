@@ -3,7 +3,7 @@
 
 💡 Always eager to learn and experiment with innovative ideas<br>
 
-🎨 Enjoys designing creative visuals using Canva and other tools<br>
+🎨 Canva enthusiast who believes design makes tech more human
 
 🚀 Constantly building skills through projects and hands-on learning<br>
 
