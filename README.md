@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I’m Rachana ✨
  🎓 AI/ML student passionate about exploring new technologies<br>
 
 💡 Always eager to learn and experiment with innovative ideas<br>
