@@ -79,16 +79,18 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=rachana192837&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rachana192837&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=rachana192837&show_icons=true&theme=radical&hide_border=true" width="395" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rachana192837&layout=compact&theme=radical&hide_border=true" width="310" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
-  <!-- Official Maintained Streak Stats -->
-  <img src="https://streak-stats.vercel.app?user=rachana192837&theme=radical&hide_border=true" width="97%" alt="Streak Stats" />
+  <img src="https://streak-stats.vercel.app?user=rachana192837&theme=radical&hide_border=true" width="415" alt="Streak Stats" />
 </div>
 
 ---
@@ -96,11 +98,6 @@
 <div align="center">
 
 ### 💡 Daily Insight
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
-<br/><br/>
-
-<!-- Reliable Komarev Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=rachana192837&label=Profile%20Views&color=9d4edd&style=flat-square" alt="Profile Views" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550" alt="Dev Quote" />
 
 </div>
